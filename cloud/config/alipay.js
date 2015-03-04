@@ -4,6 +4,6 @@ module.exports = {
   https_verify_url: 'https://mapi.alipay.com/gateway.do?service=notify_verify&',
   partner: '2088000000000000',
   key: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
-  notify_url: 'http://xxx.avosapps.com/pay/notify',
-  return_url: 'http://xxx.avosapps.com/pay/return'
+  notify_url: 'http://chanlin.avosapps.com/pay/notify',
+  return_url: 'http://chanlin.avosapps.com/pay/return'
 }
